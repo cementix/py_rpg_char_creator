@@ -46,17 +46,26 @@ python main.py
 ```
 .
 ├── main.py                  # main application logic and GUI
-├── character.py             # OOP logic for Character, Warrior, Mage
+├── character.py             # base Character class + Warrior / Mage
 ├── skill.py                 # Skill class
+├── utils.py                 # (optional) helper functions
+├── .gitignore
+├── README.md
 ├── assets/
-│   ├── warrior.png
-│   ├── mage.png
+│   ├── avatars/
+│   │   ├── default.jpg
+│   │   ├── mage.jpg
+│   │   └── warrior.jpg
 │   └── skills/
 │       ├── berserk.png
 │       ├── fireball.png
-│       └── ...
-├── characters/              # exported character files
-└── README.md
+│       ├── heal.png
+│       ├── rush.png
+│       ├── shield.png
+│       └── teleport.jpg
+├── characters/
+│   ├── test-character_mage.json
+
 ```
 
 ---
