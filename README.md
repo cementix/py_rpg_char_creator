@@ -14,7 +14,7 @@ It demonstrates key OOP concepts:
 ## 🔧 Features
 
 - Choose a **name**, **class** (`Warrior` / `Mage`) and **skill** (e.g., Berserk, Fireball)
-- Distribute **15 stat points** between Strength, Intelligence, Agility
+- Distribute **22 stat points** between Strength, Intelligence, Agility
 - Shows **remaining points** in real-time
 - Displays **class and skill icons**
 - Shows **derived stats** (HP, MP, Dodge)
