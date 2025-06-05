@@ -1,0 +1,53 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+.env/
+.venv/
+env/
+ENV/
+
+# VS Code settings
+.vscode/
+
+# macOS
+.DS_Store
+
+# PyInstaller
+dist/
+build/
+*.spec
+
+# Logs
+*.log
+
+# Test results
+*.coverage
+coverage.xml
+htmlcov/
+
+# MyPy
+.mypy_cache/
+
+# Pyre
+.pyre/
+
+# IDE
+.idea/
+
+# Python-specific cache
+*.pyo
+*.pyd
+*.pyc
+
+# Local config
+*.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# System
+Thumbs.db

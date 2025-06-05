@@ -1,0 +1,15 @@
+{
+    "Name": "Cementix",
+    "Class": "Warrior",
+    "Skill": "Shield Wall",
+    "Stats": {
+        "Strength": 16,
+        "Intelligence": 5,
+        "Agility": 10
+    },
+    "Derived Stats": {
+        "HP": 160,
+        "MP": 60,
+        "Dodge": 15.0
+    }
+}

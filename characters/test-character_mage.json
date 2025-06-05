@@ -1,0 +1,15 @@
+{
+    "Name": "test-character",
+    "Class": "Mage",
+    "Skill": "Teleport",
+    "Stats": {
+        "Strength": 1,
+        "Intelligence": 16,
+        "Agility": 7
+    },
+    "Derived Stats": {
+        "HP": 10,
+        "MP": 192,
+        "Dodge": 10.5
+    }
+}
